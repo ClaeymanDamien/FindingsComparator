@@ -1,6 +1,7 @@
 # FindingsComparator
 
-"""
+
+```
 usage: findingComparator [-h] -f OLDFINDINGS -n NEWFINDINGS -o OUTPUT
 
 Check if new the findings were not already found
@@ -13,4 +14,4 @@ optional arguments:
                         Files containing new findings
   -o OUTPUT, --output OUTPUT
                         Output file to save results
-"""
+```
